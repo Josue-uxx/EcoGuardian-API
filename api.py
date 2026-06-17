@@ -409,4 +409,10 @@ def estadisticas():
         "score": 977,
         "level": "🏆 EcoHéroe"
     }
-
+@app.get("/")
+def home():
+    return {
+        "status": "online",
+        "api": "EcoGuardian",
+        "message": "API funcionando correctamente"
+    }
