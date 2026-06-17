@@ -1,0 +1,2212 @@
+[
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "banana peel",
+        "recyclable": false,
+        "compostable": true
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "banana peel",
+        "recyclable": false,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic cup",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "cardboard",
+        "recyclable": true,
+        "compostable": true
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    },
+    {
+        "object": "plastic bottle",
+        "recyclable": true,
+        "compostable": false
+    }
+]

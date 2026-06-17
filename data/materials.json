@@ -1,0 +1,25 @@
+{
+    "plastic bottle": {
+        "recyclable": true,
+        "compostable": false,
+        "recommendation": "Lavar antes de reciclar."
+    },
+
+    "plastic cup": {
+        "recyclable": true,
+        "compostable": false,
+        "recommendation": "Depositar en el contenedor de plástico."
+    },
+
+    "cardboard": {
+        "recyclable": true,
+        "compostable": true,
+        "recommendation": "Mantener seco antes de reciclar."
+    },
+
+    "banana peel": {
+        "recyclable": false,
+        "compostable": true,
+        "recommendation": "Agregar al compost."
+    }
+}
