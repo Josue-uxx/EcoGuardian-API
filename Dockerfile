@@ -18,4 +18,4 @@ RUN pip install --no-cache-dir --upgrade -r /code/requirements.txt
 COPY . .
 
 # 6. Exponemos el puerto 7860 (el puerto estándar que usa Hugging Face)
-CMD ["uvicorn", "api:app", "--host", "0.0.0.0", "--port", "7860"]
+CMD ["sh", "-c", "uvicorn api:app --host 0.0.0.0 --port $PORT"]
