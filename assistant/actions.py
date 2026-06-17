@@ -1,6 +1,20 @@
-from assistant.chat_window import open_chat_window
-from assistant.home_window import open_home_window
-from assistant.goals_window import open_goals_window
+try:
+    from assistant.chat_window import open_chat_window
+except:
+    def open_chat_window():
+        pass
+
+try:
+    from assistant.home_window import open_home_window
+except:
+    def open_home_window():
+        pass
+
+try:
+    from assistant.goals_window import open_goals_window
+except:
+    def open_goals_window():
+        pass
 
 from assistant.ecotips import get_tip
 from assistant.recycling_guide import get_recycling_guide
