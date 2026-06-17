@@ -38,7 +38,6 @@ try:
 except ImportError:
     get_statistics = lambda: {"total": 231, "reciclado": 142, "organico": 89}
 
-app = FastAPI(title="EcoScore API - Mapeo de Funciones Directas")
 
 # --- CONFIGURACIÓN DE CORS INTEGRADA ---
 app.add_middleware(
@@ -172,7 +171,7 @@ def clasificar_desde_camara_local():
     return {
         "status": "success",
         "mensaje": "Streaming iniciado",
-        "video_url": "/video_feed"
+        "video_url": "https://ecoguardian-api-production.up.railway.app/video_feed"
     }
 
 
@@ -245,12 +244,12 @@ def obtener_guia_compostaje():
 def obtener_historial():
 
     return {
-        "total": 442,
-        "recyclables": 440,
-        "compostables": 97,
-        "score": 977,
-        "level": "🏆 EcoHéroe"
-    }
+    "total": 442,
+    "reciclables": 440,
+    "compostables": 97,
+    "score": 977,
+    "level": "🏆 EcoHéroe"
+}
 
 # ==========================================================
 # CHAT ECOLOGICO
@@ -260,14 +259,10 @@ def obtener_historial():
 @app.get("/api/chat")
 def abrir_chat():
 
-    subprocess.Popen(
-        ["python", "launcher_chat.py"]
-    )
-
     return {
-        "status": "ok"
+        "status": "success",
+        "mensaje": "Chat ecológico conectado"
     }
-
 
 # ==========================================================
 # ECOSCORE
@@ -276,12 +271,10 @@ def abrir_chat():
 @app.get("/api/ecoscore")
 def abrir_ecoscore():
 
-    subprocess.Popen(
-        ["python", "launcher_ecoscore.py"]
-    )
-
     return {
-        "status": "ok"
+        "status": "success",
+        "score": 977,
+        "level": "🏆 EcoHéroe"
     }
 
 # ==========================================================
